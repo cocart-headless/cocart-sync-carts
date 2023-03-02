@@ -22,7 +22,7 @@ That's it.
 
 ## Requirements
 
-You will need CoCart v3.7.12 or above for this plugin to work.
+You will need CoCart v3.8.0 or above for this plugin to work.
 
 ## Support
 
@@ -30,7 +30,7 @@ This is currently an **experimental feature plugin** and may change over time be
 
 Use at your own risk and provide feedback if you can but don't expect an immediate response if you are experiencing any issues.
 
-If you this feature plugin helped you, please show some support by [purchasing CoCart Pro](https://cocart.xyz/pro/).
+If you find this feature plugin helped you, please show some support by [purchasing CoCart Pro](https://cocart.xyz/pro/).
 
 Thank you.
 
